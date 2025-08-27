@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game –2020
+# Tic-Tac-Toe Game – 2020
 
 > ⚠️ Note: This is one of my old JavaScript projects, made with basic DOM manipulation and jQuery.
 
